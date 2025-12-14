@@ -1,0 +1,1 @@
+# rdkit-java-example-template
