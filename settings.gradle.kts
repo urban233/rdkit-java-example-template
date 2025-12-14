@@ -1,0 +1,1 @@
+rootProject.name = "rdkit-java-example-template"
